@@ -19,4 +19,4 @@ Las contribuciones son bienvenidas. Si encuentras algún error o tienes alguna s
 
 Este proyecto está bajo la Licencia MIT. Para más información, consulta el archivo [LICENSE](LICENSE).
 
-![Badge-ForoHub-API.png]()
+![Badge-ForoHub-API.png](https://raw.githubusercontent.com/crendai/Challenge-Back-End-ONE-ForoHub-API/main/Badge-Spring.png)
